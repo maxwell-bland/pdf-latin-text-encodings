@@ -2,6 +2,8 @@
 
 Columns: `CHAR NAME STD MAC WIN PDF`
 
+Keys of the JSON: the character codes in 3 digit octal.
+
 ## Encodings
 
 (Transcribed from Adobe PDF Standard):

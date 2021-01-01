@@ -1,8 +1,6 @@
-# Latin Text Encodings Table
+# Latin Text Encodings Table and JSON objects
 
 Columns: `CHAR NAME STD MAC WIN PDF`
-
-TODO at some point: reformat into JSON.
 
 ## Encodings
 
